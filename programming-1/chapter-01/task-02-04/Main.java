@@ -1,4 +1,5 @@
-public class TE2_4 {
+public class Main {
+
     public static void main(String[] args) {
         // printed text depends on a variable
         String text = "world";
@@ -8,4 +9,5 @@ public class TE2_4 {
         System.out.print("Hello ");
         System.out.println("everyone!");
     }
+    
 }

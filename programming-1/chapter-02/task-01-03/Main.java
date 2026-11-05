@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class TE1_3 {
+public class Main {
+
     public static void main(String[] args) {
         Scanner inputs = new Scanner(System.in);
         System.out.println("Please enter your first name:");
@@ -15,4 +16,5 @@ public class TE1_3 {
         }
         inputs.close();
     }
+    
 }

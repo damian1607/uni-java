@@ -14,4 +14,5 @@
 |-------|---------|---------|
 | Course | `programming-1/` | One folder per course. A new course gets its own top-level folder |
 | Chapter | `chapter-02/` | One folder per chapter of the lecture (Numbers are zero-padded so they stay sorted correctly) |
-| Exercise | `TE2_1.java` | One Java file per exercise |
+| Task | `task-02-04/` | One folder per task. Named after the task number in the assignment PDF |
+| Files | `Main.java` | All the files that belong to this specific task |
