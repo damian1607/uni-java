@@ -16,6 +16,7 @@ class PersonTestDrive {
     // Change name of person1 within runtime
     person1.name = "Lou";
     person1.greet();
+    person2.greet(); // Show that person2 didn't change
   }
   
 }
