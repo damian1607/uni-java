@@ -5,6 +5,6 @@ class Dog {
     String name;
 
     void bark() {
-        System.out.println(name + "barks: Bark! Bark!");
+        System.out.println(name + " barks: Bark! Bark!");
     }
 }
